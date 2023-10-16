@@ -1,7 +1,7 @@
 #!bin/bash
-while true
+      while true
 do
-clear
-echo $'\e[1;32m'$(date +%T)
+      clear
+         echo  $'\e[1;32m' Time $(date +%T)
 sleep 1s
 done
